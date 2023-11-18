@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7699372153585657812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7699372153585657808}
+  - component: {fileID: 5152082392564463479}
+  - component: {fileID: 6847045553226856404}
+  - component: {fileID: 8086911942080153647}
+  m_Layer: 0
+  m_Name: LyncManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7699372153585657808
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7699372153585657812}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5152082392564463479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7699372153585657812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 394412872, guid: 027e5968bd77449ecb124d9b39fbb391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &6847045553226856404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7699372153585657812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -436377728, guid: 027e5968bd77449ecb124d9b39fbb391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8086911942080153647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7699372153585657812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -278681970, guid: 027e5968bd77449ecb124d9b39fbb391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LyncAPIKey: 94F254A3CC129836F80367E473547319
+  chainID: 80001
+  Web3AuthClientId: BFKyj7mVffGPkfQh5iBeezv8Hc9HbL4kV553OnJ2JPRD37QyXs4NaGbHPI0NpbtgoH0PlkRc_Fi9-fpkPChBHIM
+  BiconomyAPIKey: AIRQgnifH.434ef290-8927-4608-995d-974374c35b90
+  walletAuth: {fileID: 0}
+  transactionManager: {fileID: 0}
