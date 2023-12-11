@@ -41,7 +41,9 @@ In LYNC Manager Prefab, be sure to provide the following details:
 3. Pass in the Dapp API Key ([The API key can be generated from the Biconomy Dashboard](https://dashboard.biconomy.io/))
 4. Web3 Auth Client ID ([The API key can be generated from the Web3 Auth Dashboard](https://dashboard.web3auth.io/login))
 
-Once done, You can attach the Login Example Script in your Scene by dragging and dropping a Button as a Game Object <img width="499" alt="Screenshot 2023-11-28 at 6 45 41 PM" src="https://github.com/LYNC-WORLD/LYNC-Unity-AA-WebGL/assets/42548654/94bb12aa-f349-4c47-8fe2-06030e88ab26">
+Once done, You can attach the Login Example Script in your Scene by dragging and dropping a Button as a Game Object 
+
+<img width="499" alt="Screenshot 2023-11-28 at 6 45 41 PM" src="https://github.com/LYNC-WORLD/LYNC-Unity-AA-WebGL/assets/42548654/94bb12aa-f349-4c47-8fe2-06030e88ab26">
 
 To Login with Code:
 ```
