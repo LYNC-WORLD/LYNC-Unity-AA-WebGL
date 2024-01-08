@@ -22,7 +22,7 @@ The Folder structure looks like this
 ## Integrating AA SDK in Unity
 
 There are 2 Example Projects present in the SDK:
-Assets -> LYNC-AA-SDK -> Example / Example-2
+Assets -> LYNC-AA-WEBGL -> Example / Example-2
 
 <img width="700" alt="Screenshot 2023-11-28 at 6 00 09 PM" src="https://github.com/LYNC-WORLD/LYNC-Unity-AA-WebGL/assets/42548654/35a95059-1177-4af2-8344-b256e0259a20">
 
